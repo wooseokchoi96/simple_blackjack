@@ -10,4 +10,4 @@
     3. Player can not double down
     4. Dealer does not offer insurance
 
-- You can run the application through the run file `ruby bin/run.rb`# simple_blackjack
+- You can run the application through the run file `ruby bin/run.rb`
